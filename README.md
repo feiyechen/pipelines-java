@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/feiyechentest/testProject/_apis/build/status/feiyechen.pipelines-java?branchName=main)](https://dev.azure.com/feiyechentest/testProject/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
